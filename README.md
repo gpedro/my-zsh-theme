@@ -2,7 +2,7 @@
 My beautiful theme for zsh based with [MoOX](https://github.com/MoOx/oh-my-zsh-more-themes). If you use Linux, [see this](https://github.com/gpedro/MATE-iTerm-colors).
 
 ## Screenshot
-![gpedro@my-zsh-theme](http://i.imgur.com/NM9X7CL.png)
+![gpedro@my-zsh-theme](/screenshot.png)
 
 ## Plugin required
 
